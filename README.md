@@ -1,7 +1,7 @@
 SleepyPhp
 =========
 
-A basic but very functional, VERY adaptable php REST api.
+A very basic RESTfull php api. Designed to be highly adaptable and conform to "action/verp" commands for ease of use.
 
 Usage
 =====

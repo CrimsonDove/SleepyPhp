@@ -1,0 +1,5 @@
+Options +FollowSymLinks
+RewriteEngine on
+
+#RewriteRule ^api/((.*)$) rest.php?data=$1
+RewriteRule ^((.*)$) rest.php?data=$1 [L,NC,QSA]

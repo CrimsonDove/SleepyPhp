@@ -1,5 +1,4 @@
 <?php
-require "sqlHelper.php";
 require "restClass.template.php";
 class rest
 {
